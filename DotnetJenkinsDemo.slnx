@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/DotnetJenkinsDemo/DotnetJenkinsDemo.csproj" />
+  <Project Path="tests/DotnetJenkinsDemo.Tests/DotnetJenkinsDemo.Tests.csproj" />
+</Solution>
